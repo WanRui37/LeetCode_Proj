@@ -1,5 +1,5 @@
 class Solution {
-public:
+   public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
         int p1 = 0, p2 = 0;
         int sorted[m + n];
